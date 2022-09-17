@@ -1,2 +1,2 @@
 # crunchyroll-final
-final project
+Final project is in the folder
